@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/http//tarielgafurov.github.io/HW-21/static/css/main.51851d72.chunk.css",
-    "main.js": "/http//tarielgafurov.github.io/HW-21/static/js/main.0cc52161.chunk.js",
-    "main.js.map": "/http//tarielgafurov.github.io/HW-21/static/js/main.0cc52161.chunk.js.map",
-    "runtime-main.js": "/http//tarielgafurov.github.io/HW-21/static/js/runtime-main.e368a5f8.js",
-    "runtime-main.js.map": "/http//tarielgafurov.github.io/HW-21/static/js/runtime-main.e368a5f8.js.map",
-    "static/js/2.bbc48878.chunk.js": "/http//tarielgafurov.github.io/HW-21/static/js/2.bbc48878.chunk.js",
-    "static/js/2.bbc48878.chunk.js.map": "/http//tarielgafurov.github.io/HW-21/static/js/2.bbc48878.chunk.js.map",
-    "index.html": "/http//tarielgafurov.github.io/HW-21/index.html",
-    "static/css/main.51851d72.chunk.css.map": "/http//tarielgafurov.github.io/HW-21/static/css/main.51851d72.chunk.css.map",
-    "static/js/2.bbc48878.chunk.js.LICENSE.txt": "/http//tarielgafurov.github.io/HW-21/static/js/2.bbc48878.chunk.js.LICENSE.txt"
+    "main.css": "/HW-21/static/css/main.51851d72.chunk.css",
+    "main.js": "/HW-21/static/js/main.0cc52161.chunk.js",
+    "main.js.map": "/HW-21/static/js/main.0cc52161.chunk.js.map",
+    "runtime-main.js": "/HW-21/static/js/runtime-main.c34395a9.js",
+    "runtime-main.js.map": "/HW-21/static/js/runtime-main.c34395a9.js.map",
+    "static/js/2.bbc48878.chunk.js": "/HW-21/static/js/2.bbc48878.chunk.js",
+    "static/js/2.bbc48878.chunk.js.map": "/HW-21/static/js/2.bbc48878.chunk.js.map",
+    "index.html": "/HW-21/index.html",
+    "static/css/main.51851d72.chunk.css.map": "/HW-21/static/css/main.51851d72.chunk.css.map",
+    "static/js/2.bbc48878.chunk.js.LICENSE.txt": "/HW-21/static/js/2.bbc48878.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e368a5f8.js",
+    "static/js/runtime-main.c34395a9.js",
     "static/js/2.bbc48878.chunk.js",
     "static/css/main.51851d72.chunk.css",
     "static/js/main.0cc52161.chunk.js"
